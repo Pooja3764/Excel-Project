@@ -1,18 +1,13 @@
 INSIGHTS:
 
 1. In 2022, highest sale could be seen in month of march.
-
 2. As compared to men, women are more likely to buy Vrinda products.(women=around 64%)
-
 3. Maharashtra, Karnataka and U.P has been the top 3 states in terms of sales.(approx=35%)
-
 4. Adults(women) are top buyers among all three age groups like: adults, teenagers, seniors.(~50%)
-
 5. Order status was good with 92% delivery status.(~92%)
-
 6. Amazon Myntra and Flipkart were top three contributing marketplaces.(approx=80%)
-
 
 Conclusion:
 
-To increase the sale, Vrinda store should target adult women as they are the biggest purchaser of their products. Also, they can do R&D in products of teenager and senior category people to increase their customer base. 
+To increase the sale, Vrinda store should target adult women as they are the biggest purchaser of their products.
+Also, they can do R&D in products of teenager and senior category people to increase their customer base. 
